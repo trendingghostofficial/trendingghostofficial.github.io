@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <defs>
+    <!-- Gradiente Cyan-Magenta -->
+    <linearGradient id="grad1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#00ffff;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#ff00ff;stop-opacity:1" />
+    </linearGradient>
+    
+    <!-- Sombra de neón -->
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="4" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  
+  <!-- Fondo oscuro -->
+  <rect width="512" height="512" fill="#0a0a0a"/>
+  
+  <!-- Emoticon [:)] estilo MS Paint -->
+  <g filter="url(#glow)">
+    <!-- Contorno exterior (glow cyan) -->
+    <text x="256" y="380" 
+          font-family="monospace" 
+          font-size="320" 
+          font-weight="bold"
+          text-anchor="middle"
+          fill="none"
+          stroke="#00ffff"
+          stroke-width="8">[:)]</text>
+    
+    <!-- Texto principal (gradiente) -->
+    <text x="256" y="380" 
+          font-family="monospace" 
+          font-size="320" 
+          font-weight="bold"
+          text-anchor="middle"
+          fill="url(#grad1)">[:)]</text>
+    
+    <!-- Glitch effect (desplazado) -->
+    <text x="258" y="378" 
+          font-family="monospace" 
+          font-size="320" 
+          font-weight="bold"
+          text-anchor="middle"
+          fill="#ff00ff"
+          opacity="0.3">[:)]</text>
+  </g>
+  
+  <!-- Píxeles de "ruido" estilo low-res -->
+  <rect x="80" y="80" width="8" height="8" fill="#00ffff" opacity="0.3"/>
+  <rect x="420" y="100" width="8" height="8" fill="#ff00ff" opacity="0.3"/>
+  <rect x="100" y="420" width="8" height="8" fill="#00ffff" opacity="0.3"/>
+  <rect x="410" y="400" width="8" height="8" fill="#ff00ff" opacity="0.3"/>
+</svg>

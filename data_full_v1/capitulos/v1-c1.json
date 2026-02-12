@@ -1,0 +1,99 @@
+{
+  "id": 1,
+  "volumen": 1,
+  "numero": 1,
+  "titulo": "El Nadie de Ciudad Neón",
+  "slug": "v1-c1-el-nadie-de-ciudad-neon",
+  "publicado": 1,
+  "fecha_publicacion": "2026-06-14",
+  "fecha_creacion": "2026-02-10 14:59:15",
+  "contenido_markdown": "\n# Capítulo 1: El Nadie de Ciudad Neón\n\nBazure despertó siendo invisible. 0 views. 0 likes. 0 existencia.\n\nEn un mundo donde **ser es ser percibido**, él era un glitch. Un garabato MS Paint en un universo hiperrealista 8K.\n\nCiudad Neón brillaba con sus 50 millones de habitantes, todos renderizados según sus métricas. Los streamers vivían en penthouses de 1000 pisos. Los Low-Res como él, en cubículos de 3x3 metros en los Slums.\n\nPero Bazure tenía una ventaja: nadie podía verlo. Ni siquiera el Algoritmo.\n\n## Primer Encuentro\n\nUn T-Pose Walker lo atravesó sin inmutarse. Los glitches del sistema ignoraban lo que no existía.\n\nEntonces la vio: Shiva. 5.8M views. Ultra-HD perfecta. Y por primera vez en años... ella lo miró.\n\n\"¿Tú... me ves?\" preguntó Bazure.\n\n\"Eres el único que no brilla,\" respondió ella. \"Eso te hace interesante.\"\n",
+  "contenido_html": "\n<h1>Capítulo 1: El Nadie de Ciudad Neón</h1>\n\n<p>Bazure despertó siendo invisible. 0 views. 0 likes. 0 existencia.</p>\n\n<p>En un mundo donde <strong>ser es ser percibido</strong>, él era un glitch. Un garabato MS Paint en un universo hiperrealista 8K.</p>\n\n<p>Ciudad Neón brillaba con sus 50 millones de habitantes, todos renderizados según sus métricas. Los streamers vivían en penthouses de 1000 pisos. Los Low-Res como él, en cubículos de 3x3 metros en los Slums.</p>\n\n<p>Pero Bazure tenía una ventaja: nadie podía verlo. Ni siquiera el Algoritmo.</p>\n\n<h2>Primer Encuentro</h2>\n\n<p>Un T-Pose Walker lo atravesó sin inmutarse. Los glitches del sistema ignoraban lo que no existía.</p>\n\n<p>Entonces la vio: Shiva. 5.8M views. Ultra-HD perfecta. Y por primera vez en años... ella lo miró.</p>\n\n<p>\"¿Tú... me ves?\" preguntó Bazure.</p>\n\n<p>\"Eres el único que no brilla,\" respondió ella. \"Eso te hace interesante.\"</p>\n",
+  "excerpt": "En un mundo donde ser visto es existir, Bazure es un Low-Res de 0 views que apenas se renderiza. Pero hoy, todo va a cambiar.",
+  "palabras": 138,
+  "minutos_lectura": 1,
+  "icono": "👤",
+  "personajes_aparecen": null,
+  "ubicaciones": [
+    {
+      "id": 1,
+      "nombre": "Ciudad Neón",
+      "slug": "ciudad-neon",
+      "tipo": "ciudad",
+      "es_principal": 1
+    },
+    {
+      "id": 8,
+      "nombre": "Servidor Cero",
+      "slug": "servidor-cero",
+      "tipo": "dimension",
+      "es_principal": 1
+    }
+  ],
+  "enemigos_aparecen": null,
+  "items_mencionados": null,
+  "conceptos_mencionados": null,
+  "eventos_ocurren": null,
+  "anterior_slug": null,
+  "siguiente_slug": null,
+  "requiere_capitulo": null,
+  "bloqueado": 0,
+  "meta_description": null,
+  "meta_keywords": null,
+  "meta_og_image": null,
+  "meta_author": "Trending Ghost Official",
+  "meta_published_time": null,
+  "views_totales": 0,
+  "likes": 0,
+  "compartidos": 0,
+  "comentarios": 0,
+  "created_at": "2026-02-10 14:59:15",
+  "updated_at": "2026-02-11 10:31:12",
+  "vol_titulo": "JUNGLA DE NEÓN",
+  "vol_numero": 1,
+  "personajes": [
+    {
+      "id": 1,
+      "nombre": "Bazure",
+      "slug": "bazure",
+      "tipo": "protagonista",
+      "rol": "protagonista",
+      "importancia": "critico"
+    },
+    {
+      "id": 2,
+      "nombre": "Shiva",
+      "slug": "shiva",
+      "tipo": "protagonista",
+      "rol": "deuteragonista",
+      "importancia": "critico"
+    },
+    {
+      "id": 9,
+      "nombre": "Lucy",
+      "slug": "lucy",
+      "tipo": "aliado",
+      "rol": "cameo",
+      "importancia": "secundario"
+    }
+  ],
+  "enemigos": [
+    {
+      "id": 16,
+      "nombre": "Luck Lord",
+      "slug": "luck-lord",
+      "tipo": "boss",
+      "tier": "S",
+      "tipo_encuentro": "combate"
+    }
+  ],
+  "eventos": [
+    {
+      "id": 1,
+      "nombre": "Creación de ALGORITHM 1.0",
+      "slug": "algorithm-1-0",
+      "tipo": "descubrimiento",
+      "tipo_narracion": "mencion"
+    }
+  ]
+}

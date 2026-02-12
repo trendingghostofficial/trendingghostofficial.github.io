@@ -1,0 +1,97 @@
+{
+  "id": 1,
+  "nombre": "Don Quijote",
+  "slug": "don-quijote",
+  "tipo": "artefacto",
+  "rareza": "unico",
+  "tier": "GOD",
+  "descripcion_corta": "Libro físico analógico. Único objeto pre-internet que Bazure posee. Su ancla a humanidad.",
+  "descripcion_completa": "El **Don Quijote** es un libro físico real, analógico, del año 1605. Abuela Cassette se lo da a Bazure (Cap 67). Es ÚNICO item analógico que el trío posee. En mundo digital, objetos físicos reales son invaluables. Propiedades: +0 stats, pero protege contra corruption digital, permite recordar humanidad pre-colapso. Bazure lo lee en momentos críticos. Saga 10 epilogo: cuando Bazure es guardián fantasma 50 años, el Don Quijote permanece visible (único objeto que puede ver/tocar). Simbolismo: luchar lo imposible, ser nadie que cambia todo.",
+  "stats": "{}",
+  "efectos": "[\"Anti-Corruption (pasivo)\", \"Humanity Anchor (evita perder identidad)\", \"Physical Reality (puede golpear entidades digitales puras)\"]",
+  "duracion": null,
+  "daño": null,
+  "tipo_daño": null,
+  "municion": null,
+  "alcance": null,
+  "healing": null,
+  "buffs": null,
+  "debuffs": null,
+  "precio_datacoins": null,
+  "precio_likes": null,
+  "vendible": 1,
+  "como_obtener": "Regalo de Abuela Cassette Cap 67",
+  "drop_enemigos": null,
+  "drop_chance": null,
+  "crafteable": 0,
+  "receta_craft": null,
+  "propietario_unico_id": 1,
+  "propietario_tipo": "Bazure (único propietario)",
+  "requiere_nivel": null,
+  "requiere_trending": null,
+  "requiere_capitulo_id": null,
+  "apariencia": "Libro físico maltratado. Páginas amarillentas. Portada de cuero. Olor a viejo.",
+  "color_tema": null,
+  "icono": null,
+  "imagen": null,
+  "modelo_3d": null,
+  "historia": "Publicado 1605 por Cervantes. Sobrevivió 400+ años. Gran Colapso 2024. Abuela Cassette lo guardó. Se lo dio a Bazure quien vio en él alma de nadie luchando imposibles.",
+  "inscripcion": null,
+  "introducido_capitulo": 67,
+  "aparece_capitulos": null,
+  "meta_description": null,
+  "bloqueado": 0,
+  "created_at": "2026-02-10 15:16:20",
+  "updated_at": "2026-02-10 15:16:20",
+  "dropped_by": [
+    {
+      "id": 1,
+      "nombre": "T-Pose Walker",
+      "slug": "t-pose-walker",
+      "tipo": "glitch",
+      "drop_chance": 0.8
+    },
+    {
+      "id": 2,
+      "nombre": "Pixel Swarm",
+      "slug": "pixel-swarm",
+      "tipo": "glitch",
+      "drop_chance": 0.9
+    },
+    {
+      "id": 3,
+      "nombre": "Corrupt File Zombie",
+      "slug": "corrupt-file-zombie",
+      "tipo": "glitch",
+      "drop_chance": 0.7
+    },
+    {
+      "id": 4,
+      "nombre": "Lag Phantom",
+      "slug": "lag-phantom",
+      "tipo": "glitch",
+      "drop_chance": 0.95
+    },
+    {
+      "id": 5,
+      "nombre": "Digital Police Tier C",
+      "slug": "digital-police-c",
+      "tipo": "humanoide",
+      "drop_chance": 0.6
+    },
+    {
+      "id": 6,
+      "nombre": "Cloudkeeper Soldier",
+      "slug": "cloudkeeper-soldier",
+      "tipo": "humanoide",
+      "drop_chance": 0.85
+    },
+    {
+      "id": 7,
+      "nombre": "Baneado",
+      "slug": "baneado",
+      "tipo": "humanoide",
+      "drop_chance": 0.5
+    }
+  ]
+}

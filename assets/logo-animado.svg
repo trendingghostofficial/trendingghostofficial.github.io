@@ -1,0 +1,189 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 400" width="1200" height="400">
+  <defs>
+    <!-- Gradiente animado -->
+    <linearGradient id="animGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#00ffff;stop-opacity:1">
+        <animate attributeName="stop-color" values="#00ffff;#ff00ff;#ffff00;#00ffff" dur="3s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="50%" style="stop-color:#ffffff;stop-opacity:1"/>
+      <stop offset="100%" style="stop-color:#ff00ff;stop-opacity:1">
+        <animate attributeName="stop-color" values="#ff00ff;#00ffff;#ff0000;#ff00ff" dur="3s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+    
+    <!-- Glow pulsante -->
+    <filter id="pulseGlow">
+      <feGaussianBlur stdDeviation="5" result="coloredBlur">
+        <animate attributeName="stdDeviation" values="5;15;5" dur="2s" repeatCount="indefinite"/>
+      </feGaussianBlur>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    
+    <!-- Glitch extremo -->
+    <filter id="glitchAnim">
+      <feTurbulence baseFrequency="0.02" numOctaves="3" seed="1">
+        <animate attributeName="seed" values="1;50;1" dur="0.2s" repeatCount="indefinite"/>
+        <animate attributeName="baseFrequency" values="0.02;0.1;0.02" dur="0.3s" repeatCount="indefinite"/>
+      </feTurbulence>
+      <feDisplacementMap in="SourceGraphic" scale="15">
+        <animate attributeName="scale" values="0;30;0;15" dur="0.2s" repeatCount="indefinite"/>
+      </feDisplacementMap>
+    </filter>
+  </defs>
+  
+  <!-- Fondo con scanlines animadas -->
+  <rect width="1200" height="400" fill="#000000"/>
+  
+  <!-- Scanlines que se mueven -->
+  <g opacity="0.1">
+    <rect x="0" y="0" width="1200" height="2" fill="#00ffff">
+      <animate attributeName="y" from="-10" to="400" dur="4s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="0" y="0" width="1200" height="2" fill="#ff00ff">
+      <animate attributeName="y" from="-10" to="400" dur="3s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="0" y="0" width="1200" height="2" fill="#ffff00">
+      <animate attributeName="y" from="-10" to="400" dur="5s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+  
+  <!-- Grid pulsante -->
+  <g opacity="0.05">
+    <line x1="0" y1="100" x2="1200" y2="100" stroke="#00ffff" stroke-width="1">
+      <animate attributeName="opacity" values="0.05;0.2;0.05" dur="2s" repeatCount="indefinite"/>
+    </line>
+    <line x1="0" y1="200" x2="1200" y2="200" stroke="#00ffff" stroke-width="1">
+      <animate attributeName="opacity" values="0.05;0.2;0.05" dur="2.3s" repeatCount="indefinite"/>
+    </line>
+    <line x1="0" y1="300" x2="1200" y2="300" stroke="#00ffff" stroke-width="1">
+      <animate attributeName="opacity" values="0.05;0.2;0.05" dur="1.8s" repeatCount="indefinite"/>
+    </line>
+  </g>
+  
+  <!-- Icono [:)] con glitch aleatorio -->
+  <g filter="url(#pulseGlow)">
+    <text x="50" y="230" 
+          font-family="monospace" 
+          font-size="160" 
+          font-weight="bold"
+          fill="url(#animGrad)">[:)]
+      <!-- Glitch súbito cada X segundos -->
+      <animate attributeName="x" values="50;50;50;45;55;50;50;50" dur="8s" repeatCount="indefinite"/>
+      <animate attributeName="y" values="230;230;230;235;225;230;230;230" dur="8s" repeatCount="indefinite"/>
+    </text>
+  </g>
+  
+  <!-- TRENDING GHOST con movimiento glitch -->
+  <g filter="url(#pulseGlow)">
+    <!-- TRENDING -->
+    <text x="436" y="165" 
+          font-family="Arial, sans-serif" 
+          font-size="95" 
+          font-weight="900"
+          letter-spacing="8"
+          fill="url(#animGrad)">TRENDING
+      <!-- Shake ocasional -->
+      <animate attributeName="x" 
+               values="436;436;436;436;436;436;432;440;434;438;436;436;436;436;436;436" 
+               dur="5s" 
+               repeatCount="indefinite"/>
+    </text>
+    
+    <!-- Capa glitch roja -->
+    <text x="438" y="163" 
+          font-family="Arial, sans-serif" 
+          font-size="95" 
+          font-weight="900"
+          letter-spacing="8"
+          fill="#ff0000"
+          opacity="0">TRENDING
+      <!-- Aparece en glitches -->
+      <animate attributeName="opacity" 
+               values="0;0;0;0;0;0;0.8;0;0;0.6;0;0;0;0;0;0" 
+               dur="5s" 
+               repeatCount="indefinite"/>
+      <animate attributeName="x" 
+               values="438;438;438;438;438;438;445;430;442;435;438;438;438;438;438;438" 
+               dur="5s" 
+               repeatCount="indefinite"/>
+    </text>
+    
+    <!-- GHOST -->
+    <text x="436" y="265" 
+          font-family="Arial, sans-serif" 
+          font-size="95" 
+          font-weight="900"
+          letter-spacing="8"
+          fill="url(#animGrad)">GHOST
+      <animate attributeName="x" 
+               values="436;436;436;436;432;440;436;436;436;436;436;436" 
+               dur="6s" 
+               repeatCount="indefinite"/>
+    </text>
+    
+    <!-- Capa glitch cyan -->
+    <text x="434" y="267" 
+          font-family="Arial, sans-serif" 
+          font-size="95" 
+          font-weight="900"
+          letter-spacing="8"
+          fill="#00ffff"
+          opacity="0">GHOST
+      <animate attributeName="opacity" 
+               values="0;0;0;0;0;0.7;0;0;0;0.5;0;0" 
+               dur="6s" 
+               repeatCount="indefinite"/>
+      <animate attributeName="x" 
+               values="434;434;434;434;434;428;444;434;434;430;434;434" 
+               dur="6s" 
+               repeatCount="indefinite"/>
+    </text>
+  </g>
+  
+  <!-- Subtítulo con fade in/out -->
+  <text x="436" y="315" 
+        font-family="sans-serif" 
+        font-size="36" 
+        font-weight="300"
+        letter-spacing="10"
+        fill="#00ffff"
+        opacity="0.8">バズれゴースト
+    <animate attributeName="opacity" values="0.8;0.3;0.8" dur="4s" repeatCount="indefinite"/>
+  </text>
+  
+  <!-- "Píxeles muertos" parpadeantes -->
+  <rect x="250" y="50" width="15" height="15" fill="#ff0000" opacity="0">
+    <animate attributeName="opacity" values="0;0;0.8;0;0;0;0;0.6;0;0" dur="3s" repeatCount="indefinite"/>
+  </rect>
+  <rect x="1100" y="80" width="12" height="12" fill="#00ffff" opacity="0">
+    <animate attributeName="opacity" values="0;0;0;0;0.7;0;0;0;0;0" dur="4s" repeatCount="indefinite"/>
+  </rect>
+  <rect x="260" y="340" width="18" height="18" fill="#ff00ff" opacity="0">
+    <animate attributeName="opacity" values="0;0.9;0;0;0;0;0;0;0.5;0" dur="5s" repeatCount="indefinite"/>
+  </rect>
+  <rect x="1120" y="320" width="10" height="10" fill="#ffff00" opacity="0">
+    <animate attributeName="opacity" values="0;0;0;0;0;0.8;0;0;0;0" dur="3.5s" repeatCount="indefinite"/>
+  </rect>
+  
+  <!-- Stats contadores animados (simulación) -->
+  <g font-family="monospace" font-size="14" opacity="0.5">
+    <text x="20" y="380" fill="#ff0000">Views: 
+      <tspan fill="#00ffff">
+        <animate attributeName="opacity" values="1;0.5;1" dur="0.5s" repeatCount="indefinite"/>
+        ???
+      </tspan>
+    </text>
+    <text x="900" y="380" fill="#00ffff">
+      CARGANDO
+      <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+    </text>
+  </g>
+  
+  <!-- Barra de "señal" oscilante -->
+  <rect x="0" y="395" width="0" height="5" fill="#00ffff" opacity="0.6">
+    <animate attributeName="width" values="0;600;1200;400;0" dur="6s" repeatCount="indefinite"/>
+  </rect>
+</svg>

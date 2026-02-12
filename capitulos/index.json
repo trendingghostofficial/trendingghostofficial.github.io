@@ -1,0 +1,68 @@
+{
+  "total": 100,
+  "publicados": 1,
+  "ultimo_publicado": "2026-06-14",
+  "proximo_publicacion": "2026-06-23",
+  "volumenes": [
+    {
+      "numero": 1,
+      "titulo": "El Despertar",
+      "subtitulo": "¿Qué pasa cuando nadie te ve?",
+      "rango": "1-25",
+      "estado": "publicacion",
+      "color_tema": "#00ffff",
+      "capitulos_publicados": 1,
+      "fecha_inicio": "2026-06-14",
+      "fecha_fin_estimada": "2027-06-14",
+      "capitulos": [
+        {
+          "numero": 1,
+          "titulo": "Proximamente",
+          "slug": "v0-c0",
+          "fecha": "2026-06-14",
+          "publicado": false,
+          "minutos": 0,
+          "palabras": 0,
+          "icono": "[:)]",
+          "excerpt": "El comienzo del camino.."
+        }
+      ]
+    },
+    {
+      "numero": 2,
+      "titulo": "Views Fantasma",
+      "subtitulo": "Los números no mienten. O sí.",
+      "rango": "26-50",
+      "estado": "planificacion",
+      "color_tema": "#ff00ff",
+      "capitulos_publicados": 0,
+      "fecha_inicio": null,
+      "fecha_fin_estimada": null,
+      "capitulos": []
+    },
+    {
+      "numero": 3,
+      "titulo": "Algoritmo Divino",
+      "subtitulo": "El código decide quién existe",
+      "rango": "51-75",
+      "estado": "planificacion",
+      "color_tema": "#ffff00",
+      "capitulos_publicados": 0,
+      "fecha_inicio": null,
+      "fecha_fin_estimada": null,
+      "capitulos": []
+    },
+    {
+      "numero": 4,
+      "titulo": "El Colapso Final",
+      "subtitulo": "Algunos finales son solo un reinicio",
+      "rango": "76-100",
+      "estado": "planificacion",
+      "color_tema": "#ff0000",
+      "capitulos_publicados": 0,
+      "fecha_inicio": null,
+      "fecha_fin_estimada": null,
+      "capitulos": []
+    }
+  ]
+}

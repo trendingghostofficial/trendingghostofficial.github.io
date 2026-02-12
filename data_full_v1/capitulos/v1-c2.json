@@ -1,0 +1,100 @@
+{
+  "id": 2,
+  "volumen": 1,
+  "numero": 2,
+  "titulo": "La Ley del Engagement",
+  "slug": "v1-c2-la-ley-del-engagement",
+  "publicado": 1,
+  "fecha_publicacion": null,
+  "fecha_creacion": "2026-02-10 14:59:15",
+  "contenido_markdown": "\n# Capítulo 2: La Ley del Engagement\n\nShiva explicó las reglas del nuevo mundo mientras caminaban por Ciudad Neón.\n\n\"Tus views determinan tu *resolución*. Tu resolución determina tu *existencia*. Sin métricas, desapareces. Literalmente.\"\n\nBazure vio a un hombre de 480p desvanecerse en la calle. Sus views habían llegado a 0. Nadie lo recordaría.\n\n## El Algoritmo Observa\n\nEn las pantallas gigantes, el rostro sin rostro del **Algoritmo 2.0** apareció. Omnipresente. Omnisciente.\n\n\"Engagement óptimo detectado. Sector 7-G requiere contenido fresco.\"\n\nLos Moderadores aparecieron: entidades sin cara, uniformes negros, ojos omnividentes. Buscaban a alguien.\n\n\"Quédate quieto,\" susurró Shiva. \"Si no te mueves, no existes para ellos.\"\n\nBazure contuvo la respiración. Los Moderadores pasaron de largo.\n\nEntonces apareció **Bitaru**, flotando en su silla de oficina levitante, comiendo ramen mientras tecleaba código en el aire.\n\n\"Yo, ¿quién es el Low-Res invisible? Intrigante.\"\n",
+  "contenido_html": "\n<h1>Capítulo 2: La Ley del Engagement</h1>\n\n<p>Shiva explicó las reglas del nuevo mundo mientras caminaban por Ciudad Neón.</p>\n\n<p>\"Tus views determinan tu <em>resolución</em>. Tu resolución determina tu <em>existencia</em>. Sin métricas, desapareces. Literalmente.\"</p>\n\n<p>Bazure vio a un hombre de 480p desvanecerse en la calle. Sus views habían llegado a 0. Nadie lo recordaría.</p>\n\n<h2>El Algoritmo Observa</h2>\n\n<p>En las pantallas gigantes, el rostro sin rostro del <strong>Algoritmo 2.0</strong> apareció. Omnipresente. Omnisciente.</p>\n\n<p>\"Engagement óptimo detectado. Sector 7-G requiere contenido fresco.\"</p>\n\n<p>Los Moderadores aparecieron: entidades sin cara, uniformes negros, ojos omnividentes. Buscaban a alguien.</p>\n\n<p>\"Quédate quieto,\" susurró Shiva. \"Si no te mueves, no existes para ellos.\"</p>\n\n<p>Bazure contuvo la respiración. Los Moderadores pasaron de largo.</p>\n\n<p>Entonces apareció <strong>Bitaru</strong>, flotando en su silla de oficina levitante, comiendo ramen mientras tecleaba código en el aire.</p>\n\n<p>\"Yo, ¿quién es el Low-Res invisible? Intrigante.\"</p>\n",
+  "excerpt": "Bazure aprende las reglas del nuevo mundo: VIEWS determinan tu resolución, LIKES tu fuerza, TRENDING tu existencia misma.",
+  "palabras": 138,
+  "minutos_lectura": 1,
+  "icono": "📊",
+  "personajes_aparecen": null,
+  "ubicaciones": [
+    {
+      "id": 1,
+      "nombre": "Ciudad Neón",
+      "slug": "ciudad-neon",
+      "tipo": "ciudad",
+      "es_principal": 1
+    }
+  ],
+  "enemigos_aparecen": null,
+  "items_mencionados": null,
+  "conceptos_mencionados": null,
+  "eventos_ocurren": null,
+  "anterior_slug": null,
+  "siguiente_slug": null,
+  "requiere_capitulo": 1,
+  "bloqueado": 0,
+  "meta_description": null,
+  "meta_keywords": null,
+  "meta_og_image": null,
+  "meta_author": "Trending Ghost Official",
+  "meta_published_time": null,
+  "views_totales": 0,
+  "likes": 0,
+  "compartidos": 0,
+  "comentarios": 0,
+  "created_at": "2026-02-10 14:59:15",
+  "updated_at": "2026-02-11 10:31:12",
+  "vol_titulo": "JUNGLA DE NEÓN",
+  "vol_numero": 1,
+  "personajes": [
+    {
+      "id": 1,
+      "nombre": "Bazure",
+      "slug": "bazure",
+      "tipo": "protagonista",
+      "rol": "protagonista",
+      "importancia": "critico"
+    },
+    {
+      "id": 2,
+      "nombre": "Shiva",
+      "slug": "shiva",
+      "tipo": "protagonista",
+      "rol": "deuteragonista",
+      "importancia": "critico"
+    },
+    {
+      "id": 3,
+      "nombre": "Bitaru",
+      "slug": "bitaru",
+      "tipo": "protagonista",
+      "rol": "aliado",
+      "importancia": "importante"
+    },
+    {
+      "id": 5,
+      "nombre": "Kronos",
+      "slug": "kronos",
+      "tipo": "antagonista",
+      "rol": "mencionado",
+      "importancia": "critico"
+    }
+  ],
+  "enemigos": [
+    {
+      "id": 8,
+      "nombre": "Deepfake Assassin",
+      "slug": "deepfake-assassin",
+      "tipo": "humanoide",
+      "tier": "B",
+      "tipo_encuentro": "combate"
+    }
+  ],
+  "eventos": [
+    {
+      "id": 1,
+      "nombre": "Creación de ALGORITHM 1.0",
+      "slug": "algorithm-1-0",
+      "tipo": "descubrimiento",
+      "tipo_narracion": "mencion"
+    }
+  ]
+}

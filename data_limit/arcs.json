@@ -1,0 +1,74 @@
+{
+  "metadata": {
+    "total": 1
+  },
+  "volumenes": [
+    {
+      "id": 1,
+      "numero": 1,
+      "titulo": "JUNGLA DE NEÓN",
+      "subtitulo": "Del Nadie al Alguien",
+      "descripcion": "Bazure, un Low-Res invisible, forma equipo con Shiva (soldado 8K) y Bitaru (hacker lag). Juntos desafían a los 5 Streamers de La Casa del Hype y derriban al Rey Rex Chrome.",
+      "rango": "Caps 1-10",
+      "estado": "publicacion",
+      "color_tema": "#FF10F0",
+      "icono": "🌃",
+      "capitulos_totales": 10,
+      "capitulos_publicados": 2,
+      "fecha_inicio": "2026-06-14",
+      "fecha_fin_estimada": "2026-10-23",
+      "ubicacion_principal": "Ciudad Neón - Barrio Low-Res",
+      "antagonistas_principales": "[1]",
+      "temas": "[\"origen\", \"formación equipo\", \"crítica streamers\", \"nadie a héroe\"]",
+      "created_at": "2026-02-10 14:58:14",
+      "updated_at": "2026-02-10 14:58:14",
+      "caps": "[{\"id\":1,\"numero\":1,\"titulo\":\"El Nadie de Ciudad Neón\",\"slug\":\"v1-c1-el-nadie-de-ciudad-neon\",\"publicado\":1,\"icono\":\"👤\",\"palabras\":138,\"minutos_lectura\":1,\"excerpt\":\"En un mundo donde ser visto es existir, Bazure es un Low-Res de 0 views que apenas se renderiza. Pero hoy, todo va a cambiar.\"},{\"id\":2,\"numero\":2,\"titulo\":\"La Ley del Engagement\",\"slug\":\"v1-c2-la-ley-del-engagement\",\"publicado\":1,\"icono\":\"📊\",\"palabras\":138,\"minutos_lectura\":1,\"excerpt\":\"Bazure aprende las reglas del nuevo mundo: VIEWS determinan tu resolución, LIKES tu fuerza, TRENDING tu existencia misma.\"},{\"id\":3,\"numero\":3,\"titulo\":\"Primer Glitch\",\"slug\":\"v1-c3-primer-glitch\",\"publicado\":1,\"icono\":\"⚡\",\"palabras\":153,\"minutos_lectura\":1,\"excerpt\":\"El primer combate de Bazure contra un T-Pose Walker. Descubre que su Low-Res le permite hacer cosas que los High-Res no pueden.\"},{\"id\":4,\"numero\":4,\"titulo\":\"La Chica de 8K\",\"slug\":\"v1-c4-la-chica-de-8k\",\"publicado\":1,\"icono\":\"✨\",\"palabras\":139,\"minutos_lectura\":1,\"excerpt\":\"Bazure conoce a Shiva, una soldado Tier A hiperrealista. Ella ve algo en él que nadie más ve.\"}]",
+      "capitulos": [
+        {
+          "id": 1,
+          "numero": 1,
+          "titulo": "El Nadie de Ciudad Neón",
+          "slug": "v1-c1-el-nadie-de-ciudad-neon",
+          "publicado": 1,
+          "icono": "👤",
+          "palabras": 138,
+          "minutos_lectura": 1,
+          "excerpt": "En un mundo donde ser visto es existir, Bazure es un Low-Res de 0 views que apenas se renderiza. Pero hoy, todo va a cambiar."
+        },
+        {
+          "id": 2,
+          "numero": 2,
+          "titulo": "La Ley del Engagement",
+          "slug": "v1-c2-la-ley-del-engagement",
+          "publicado": 1,
+          "icono": "📊",
+          "palabras": 138,
+          "minutos_lectura": 1,
+          "excerpt": "Bazure aprende las reglas del nuevo mundo: VIEWS determinan tu resolución, LIKES tu fuerza, TRENDING tu existencia misma."
+        },
+        {
+          "id": 3,
+          "numero": 3,
+          "titulo": "Primer Glitch",
+          "slug": "v1-c3-primer-glitch",
+          "publicado": 1,
+          "icono": "⚡",
+          "palabras": 153,
+          "minutos_lectura": 1,
+          "excerpt": "El primer combate de Bazure contra un T-Pose Walker. Descubre que su Low-Res le permite hacer cosas que los High-Res no pueden."
+        },
+        {
+          "id": 4,
+          "numero": 4,
+          "titulo": "La Chica de 8K",
+          "slug": "v1-c4-la-chica-de-8k",
+          "publicado": 1,
+          "icono": "✨",
+          "palabras": 139,
+          "minutos_lectura": 1,
+          "excerpt": "Bazure conoce a Shiva, una soldado Tier A hiperrealista. Ella ve algo en él que nadie más ve."
+        }
+      ]
+    }
+  ]
+}
