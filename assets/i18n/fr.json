@@ -1,0 +1,110 @@
+{
+  "common": {
+    "loading": "Chargement...",
+    "error": "Erreur",
+    "success": "Succès",
+    "cancel": "Annuler",
+    "confirm": "Confirmer",
+    "close": "Fermer",
+    "save": "Enregistrer",
+    "back": "Retour",
+    "next": "Suivant",
+    "previous": "Précédent"
+  },
+  "nav": {
+    "home": "Accueil",
+    "chapters": "Chapitres",
+    "characters": "Personnages",
+    "world": "Monde",
+    "lore": "Lore",
+    "about": "À propos",
+    "support": "Soutenir"
+  },
+  "reader": {
+    "loading": "Chargement du chapitre...",
+    "not_found": "Chapitre introuvable",
+    "all_chapters": "Tous les chapitres",
+    "chapter_list": "Index des chapitres",
+    "reading_time": "min de lecture",
+    "words": "mots",
+    "previous_chapter": "Chapitre précédent",
+    "next_chapter": "Chapitre suivant",
+    "auto_scroll": {
+      "start": "Démarrer",
+      "pause": "Pause",
+      "speed": "Vitesse",
+      "slow": "Lent",
+      "fast": "Rapide"
+    }
+  },
+  "translation": {
+    "change_language": "Changer de langue",
+    "select_language": "Sélectionner la langue",
+    "original": "Original",
+    "coming_soon": "Prochainement",
+    "progress": "Progression de la traduction",
+    "automatic_warning": "Traduction automatique",
+    "help_improve": "Aidez-nous à l'améliorer !",
+    "select_text": "Sélectionnez le texte contenant des erreurs et suggérez des corrections",
+    "suggest_button": "Suggérer une traduction",
+    "feedback": {
+      "title": "Suggérer une traduction",
+      "selected_text": "Texte original",
+      "your_suggestion": "Votre suggestion",
+      "reason": "Raison (facultatif)",
+      "reason_placeholder": "Pourquoi pensez-vous que cette traduction est meilleure ?",
+      "contact": "Contact (facultatif)",
+      "contact_hint": "Laissez votre e-mail ou Discord pour être averti si votre suggestion est acceptée et gagner des points dans le classement des traducteurs.",
+      "email_placeholder": "votre@email.com",
+      "discord_placeholder": "utilisateur#1234",
+      "send": "Envoyer la suggestion",
+      "sending": "Envoi en cours...",
+      "success_title": "Merci pour votre contribution !",
+      "success_message": "Votre suggestion a été envoyée et sera examinée par l'équipe. Une issue GitHub a été créée pour le suivi.",
+      "view_issue": "Voir l'issue sur GitHub",
+      "auto_close": "Cette fenêtre se fermera automatiquement...",
+      "errors": {
+        "required": "Ce champ est obligatoire",
+        "min_length": "La suggestion doit contenir au moins 10 caractères",
+        "invalid_email": "E-mail invalide",
+        "rate_limit": "Trop de demandes. Veuillez patienter un instant et réessayer.",
+        "network_error": "Erreur lors de l'envoi de la suggestion. Veuillez vérifier votre connexion et réessayer."
+      }
+    }
+  },
+  "chapters": {
+    "volume": "Volume",
+    "chapter": "Chapitre",
+    "published": "Publié",
+    "coming_soon": "Prochainement",
+    "locked": "Verrouillé",
+    "read": "Lire",
+    "continue_reading": "Continuer la lecture"
+  },
+  "characters": {
+    "title": "Personnages",
+    "faction": "Faction",
+    "power": "Pouvoir",
+    "status": "Statut",
+    "first_appearance": "Première apparition",
+    "bio": "Biographie",
+    "relationships": "Relations",
+    "abilities": "Capacités"
+  },
+  "world": {
+    "title": "Monde",
+    "lore": "Lore",
+    "locations": "Lieux",
+    "factions": "Factions",
+    "timeline": "Chronologie",
+    "concepts": "Concepts",
+    "items": "Objets",
+    "enemies": "Ennemis"
+  },
+  "footer": {
+    "like_chapter": "Avez-vous aimé ce chapitre ?",
+    "support_project": "Soutenir le projet",
+    "follow_social": "Suivez-nous sur les réseaux sociaux",
+    "copyright": "© 2026 Trending Ghost. Tous droits réservés."
+  }
+}

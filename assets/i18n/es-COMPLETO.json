@@ -1,0 +1,285 @@
+{
+  "_meta": {
+    "language": "es",
+    "language_name": "Español",
+    "version": "1.0.0",
+    "last_updated": "2026-02-13",
+    "completeness": 100
+  },
+  "common": {
+    "loading": "Cargando...",
+    "error": "Error",
+    "success": "Éxito",
+    "cancel": "Cancelar",
+    "confirm": "Confirmar",
+    "close": "Cerrar",
+    "save": "Guardar",
+    "back": "Volver",
+    "next": "Siguiente",
+    "previous": "Anterior",
+    "comingSoon": "Próximamente",
+    "locked": "Bloqueado",
+    "read": "Leer",
+    "continueReading": "Continuar leyendo",
+    "of": "de"
+  },
+  "nav": {
+    "home": "Inicio",
+    "chapters": "Capítulos",
+    "characters": "Personajes",
+    "world": "Mundo",
+    "bestiary": "Bestiario",
+    "about": "Sobre",
+    "lore": "Lore",
+    "support": "Apoyar"
+  },
+  "header": {
+    "logoAlt": "TRENDING GHOST - Logo",
+    "subtitle": "バズれゴースト",
+    "toggleMenu": "Abrir menú"
+  },
+  "footer": {
+    "mainTitle": "TRENDING GHOST",
+    "tagline": "Manga cyberpunk de sátira ultraviolenta",
+    "copyright": "© 2026 Luis Alberto Oraá García - Todos los derechos reservados",
+    "legal": "Legal",
+    "copyrightLicense": "📜 Copyright y Licencia",
+    "authorship": "✍️ Declaración de Autoría",
+    "safeCreative": "🛡️ Safe Creative",
+    "transparency": "Transparencia",
+    "sourceCode": "Ver código fuente",
+    "commitHistory": "📋 Historial de commits",
+    "gitTimestamp": "Git: Prueba de autoría verificable",
+    "community": "Comunidad",
+    "rssFeed": "📡 RSS Feed",
+    "kofi": "☕ Ko-fi (Apóyame)",
+    "contact": "💬 Contacto",
+    "quote": "\"Ser es ser percibido. El Algoritmo decide quién existe.\"",
+    "legalNotice": "⚖️ Contenido protegido por derechos de autor. Lectura libre, copia prohibida.",
+    "legalNotice2": "Registrado bajo el Convenio de Berna y leyes de propiedad intelectual.",
+    "likeChapter": "¿Te gustó este capítulo?",
+    "supportProject": "Apoya el proyecto",
+    "followSocial": "Síguenos en redes"
+  },
+  "home": {
+    "heroTagline": {
+      "line1": "En un mundo donde tu existencia depende de tus views,",
+      "line2": "¿qué pasa cuando nadie te ve?",
+      "line3": "Sigue a Bazure, Shive y Bitaru en una aventura repleta de aventuras, violencia y misterio donde experimentarán sensaciones",
+      "line4": "demasiado humanas, para el mundo en el que viven.."
+    },
+    "whatIsTitle": "¿Qué es TRENDING GHOST?",
+    "intro": {
+      "date": "1 Enero 2024.",
+      "p1": "Una actualización masiva en Internet cambió las reglas de la realidad.",
+      "p2": "Ahora \"ser es ser percibido\" se convierte en física literal: si no te ve nadie, no existes para nadie. Tu cuerpo se renderiza en proporción a tus views, likes, shares y comments.",
+      "p3": "Bazure llevaba una vida tranquila, ajeno al mundanal ruido virtual en el que se convirtió Internet.",
+      "p4": "Cuando despertó, tenía 0 views. ¿Inmune al Algoritmo o inexistente para él?",
+      "p5": "Bazure no fue el único que despertó en lo más abajo, pero si fue el único que no aceptó la nueva realidad.",
+      "p6": "En un mundo donde ser viral es ser Dios, los invisibles son los únicos libres."
+    },
+    "antiFeatures": {
+      "title": "🚫 Esta Web NO usa ...",
+      "item1": "❌ Analytics (no importa quien seas).",
+      "item2": "❌ Cookies (no necesito tus datos).",
+      "item3": "❌ Newsletter (yo te aviso, tu decides leer).",
+      "item4": "❌ Paywalls (100% gratis, siempre).",
+      "item5": "❌ No encontrarás publicidad.",
+      "item6": "❌ Ingresos > Proyecto"
+    },
+    "proFeatures": {
+      "title": "... por el contrario:",
+      "item1": "✅ Si te gusta, te quedas.",
+      "item2": "✅ Si tú quieres, te quedas.",
+      "item3": "✅ Si te apetece, contribuyes.",
+      "item4": "✅ Si te parece, compartes."
+    },
+    "lorePreview": {
+      "world": {
+        "title": "El Mundo",
+        "desc": "Física alterada: Descubre cómo El Colapso reescribió las leyes de la realidad."
+      },
+      "characters": {
+        "title": "Personajes",
+        "desc": "Garabatos vs 8K: Conoce a los protagonistas de este mundo distópico."
+      },
+      "about": {
+        "title": "Sobre",
+        "desc": "Filosofía anti-viral: Por qué este sitio no te rastrea ni te manipula."
+      }
+    }
+  },
+  "chapters": {
+    "title": "Capítulos",
+    "subtitle": "100 capítulos · Publicación días 14 y 23 de cada mes",
+    "loading": "Cargando capítulos...",
+    "error": "Error cargando capítulos",
+    "progress": "capítulos publicados",
+    "volumePrefix": "VOL",
+    "volumeLabel": "Volumen",
+    "chapter": "Capítulo",
+    "readTime": "min lectura",
+    "words": "palabras",
+    "comingSoon": "Próximamente",
+    "publicationStatus": "En publicación",
+    "planningStatus": "En planificación",
+    "published": "Publicado",
+    "locked": "🔒 Bloqueado"
+  },
+  "characters": {
+    "title": "👥 Personajes de TRENDING GHOST",
+    "intro": "En un mundo donde tu existencia depende de tus views, cada personaje es una crítica viviente a la cultura digital.",
+    "introBold": "Tu resolución es tu poder. Tus métricas son tu realidad.",
+    "progress": {
+      "prelaunch": "📚 Pre-Lanzamiento",
+      "prelaunchDesc": "Los personajes aparecerán según avance la historia",
+      "chapterPrefix": "📖 Capítulo",
+      "unlocked": "personajes desbloqueados"
+    },
+    "spoilerWarning": "🔒 Los personajes se desbloquearán progresivamente según aparezcan en la historia.",
+    "metricsTitle": "⚡ Sistema de Métricas",
+    "metrics": {
+      "views": {
+        "label": "Views:",
+        "desc": "Controlan visibilidad (0 = invisible, 10M+ = omnipresente)"
+      },
+      "likes": {
+        "label": "Likes:",
+        "desc": "Carisma y atractivo físico"
+      },
+      "shares": {
+        "label": "Shares:",
+        "desc": "Clonación y multiplicación de presencia"
+      },
+      "comments": {
+        "label": "Comments:",
+        "desc": "Volumen de voz e influencia"
+      }
+    },
+    "categories": {
+      "protagonists": "Protagonistas",
+      "antagonists": "Antagonistas",
+      "secondary": "Secundarios"
+    },
+    "stats": {
+      "views": "Views:",
+      "resolution": "Resolución:",
+      "power": "Poder:",
+      "faction": "Facción",
+      "status": "Estado",
+      "firstAppearance": "Primera aparición",
+      "bio": "Biografía",
+      "relationships": "Relaciones",
+      "abilities": "Habilidades"
+    }
+  },
+  "world": {
+    "title": "El Mundo de TRENDING GHOST",
+    "intro": "Un universo cyberpunk donde",
+    "introQuote": "\"Esse est percipi\"",
+    "introDesc": "no es filosofía, es física. Si nadie te ve, literalmente dejas de existir.",
+    "progress": {
+      "prelaunch": "📚 Pre-Lanzamiento",
+      "prelaunchDate": "Primer capítulo: 14 Jun 2026",
+      "chapterPrefix": "📖 Capítulo",
+      "of": "de 100",
+      "volumePrefix": "Volumen"
+    },
+    "spoilerWarning": "🔒 El contenido se desbloqueará progresivamente con cada capítulo publicado para evitar spoilers.",
+    "loading": "Cargando mundo...",
+    "errorLoading": "❌ Error cargando datos del mundo",
+    "quickNav": "🗺️ Navegación Rápida",
+    "sections": {
+      "locations": "Ubicaciones",
+      "worldbuilding": "Worldbuilding",
+      "lore": "Lore",
+      "factions": "Facciones",
+      "timeline": "Línea temporal",
+      "concepts": "Conceptos",
+      "items": "Objetos",
+      "enemies": "Enemigos"
+    },
+    "locationsTitle": "🌍 Ubicaciones",
+    "locationsIntro": "Los lugares que han aparecido en la historia hasta el capítulo",
+    "locationStats": {
+      "population": "Población",
+      "signal": "Señal",
+      "trending": "Trending",
+      "climate": "Clima"
+    },
+    "danger": {
+      "harmless": "Inofensivo",
+      "low": "Peligro Bajo",
+      "medium": "Peligro Medio",
+      "high": "Peligro Alto",
+      "extreme": "Peligro Extremo"
+    }
+  },
+  "bestiary": {
+    "title": "Bestiario",
+    "intro": "Enemigos y criaturas del mundo de TRENDING GHOST",
+    "loading": "Cargando bestiario...",
+    "errorLoading": "❌ Error cargando datos del bestiario"
+  },
+  "reader": {
+    "loading": "Cargando capítulo...",
+    "notFound": "Capítulo no encontrado",
+    "allChapters": "Todos los capítulos",
+    "chapterList": "Índice de capítulos",
+    "readingTime": "min lectura",
+    "words": "palabras",
+    "previousChapter": "Capítulo anterior",
+    "nextChapter": "Siguiente capítulo",
+    "autoScroll": {
+      "start": "Iniciar",
+      "pause": "Pausar",
+      "speed": "Velocidad",
+      "slow": "Lento",
+      "fast": "Rápido"
+    }
+  },
+  "translation": {
+    "changeLanguage": "Cambiar idioma",
+    "selectLanguage": "Selecciona idioma",
+    "original": "Original",
+    "comingSoon": "Próximamente",
+    "progress": "Progreso de traducción",
+    "automaticWarning": "Traducción automática",
+    "helpImprove": "¡Ayúdanos a mejorarla!",
+    "selectText": "Selecciona texto con errores y sugiere correcciones",
+    "suggestButton": "Sugerir traducción",
+    "feedback": {
+      "title": "Sugerir traducción",
+      "selectedText": "Texto original",
+      "yourSuggestion": "Tu sugerencia",
+      "reason": "Razón (opcional)",
+      "reasonPlaceholder": "¿Por qué crees que esta traducción es mejor?",
+      "contact": "Contacto (opcional)",
+      "contactHint": "Déjanos tu email o Discord para avisarte si tu sugerencia es aceptada y ganar puntos en el ranking de traductores.",
+      "emailPlaceholder": "tu@email.com",
+      "discordPlaceholder": "usuario#1234",
+      "send": "Enviar sugerencia",
+      "sending": "Enviando...",
+      "successTitle": "¡Gracias por tu aporte!",
+      "successMessage": "Tu sugerencia ha sido enviada y será revisada por el equipo. Se creó un issue en GitHub para hacer seguimiento.",
+      "viewIssue": "Ver issue en GitHub",
+      "autoClose": "Este diálogo se cerrará automáticamente...",
+      "errors": {
+        "required": "Este campo es requerido",
+        "minLength": "La sugerencia debe tener al menos 10 caracteres",
+        "invalidEmail": "Email inválido",
+        "rateLimit": "Demasiadas solicitudes. Por favor, espera un momento e intenta de nuevo.",
+        "networkError": "Error al enviar la sugerencia. Por favor, verifica tu conexión e intenta de nuevo."
+      }
+    },
+    "warnings": {
+      "machineTranslated": "⚠️ Traducción automática",
+      "communityTranslated": "✅ Traducción revisada",
+      "official": "✨ Traducción oficial"
+    }
+  },
+  "about": {
+    "title": "Sobre TRENDING GHOST",
+    "philosophy": "Filosofía del proyecto"
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "common": {
+    "loading": "Cargando...",
+    "error": "Error",
+    "success": "Éxito",
+    "cancel": "Cancelar",
+    "confirm": "Confirmar",
+    "close": "Cerrar",
+    "save": "Guardar",
+    "back": "Volver",
+    "next": "Siguiente",
+    "previous": "Anterior"
+  },
+  "nav": {
+    "home": "Inicio",
+    "chapters": "Capítulos",
+    "characters": "Personajes",
+    "world": "Mundo",
+    "lore": "Lore",
+    "about": "Acerca de",
+    "support": "Apoyar"
+  },
+  "home": {
+    "hero_tagline": "En un mundo donde tu existencia depende de tus views, ¿qué pasa cuando nadie te ve?",
+    "what_is_title": "¿Qué es TRENDING GHOST?"
+  },
+  "reader": {
+    "loading": "Cargando capítulo...",
+    "not_found": "Capítulo no encontrado",
+    "all_chapters": "Todos los capítulos",
+    "chapter_list": "Índice de capítulos",
+    "reading_time": "min lectura",
+    "words": "palabras",
+    "previous_chapter": "Capítulo anterior",
+    "next_chapter": "Siguiente capítulo",
+    "auto_scroll": {
+      "start": "Iniciar",
+      "pause": "Pausar",
+      "speed": "Velocidad",
+      "slow": "Lento",
+      "fast": "Rápido"
+    }
+  },
+  "translation": {
+    "change_language": "Cambiar idioma",
+    "select_language": "Selecciona idioma",
+    "original": "Original",
+    "coming_soon": "Próximamente",
+    "progress": "Progreso de traducción",
+    "automatic_warning": "Traducción automática",
+    "help_improve": "¡Ayúdanos a mejorarla!",
+    "select_text": "Selecciona texto con errores y sugiere correcciones",
+    "suggest_button": "Sugerir traducción",
+    "feedback": {
+      "title": "Sugerir traducción",
+      "selected_text": "Texto original",
+      "your_suggestion": "Tu sugerencia",
+      "reason": "Razón (opcional)",
+      "reason_placeholder": "¿Por qué crees que esta traducción es mejor?",
+      "contact": "Contacto (opcional)",
+      "contact_hint": "Déjanos tu email o Discord para avisarte si tu sugerencia es aceptada y ganar puntos en el ranking de traductores.",
+      "email_placeholder": "tu@email.com",
+      "discord_placeholder": "usuario#1234",
+      "send": "Enviar sugerencia",
+      "sending": "Enviando...",
+      "success_title": "¡Gracias por tu aporte!",
+      "success_message": "Tu sugerencia ha sido enviada y será revisada por el equipo. Se creó un issue en GitHub para hacer seguimiento.",
+      "view_issue": "Ver issue en GitHub",
+      "auto_close": "Este diálogo se cerrará automáticamente...",
+      "errors": {
+        "required": "Este campo es requerido",
+        "min_length": "La sugerencia debe tener al menos 10 caracteres",
+        "invalid_email": "Email inválido",
+        "rate_limit": "Demasiadas solicitudes. Por favor, espera un momento e intenta de nuevo.",
+        "network_error": "Error al enviar la sugerencia. Por favor, verifica tu conexión e intenta de nuevo."
+      }
+    }
+  },
+  "chapters": {
+    "volume": "Volumen",
+    "chapter": "Capítulo",
+    "published": "Publicado",
+    "coming_soon": "Próximamente",
+    "locked": "Bloqueado",
+    "read": "Leer",
+    "continue_reading": "Continuar leyendo"
+  },
+  "characters": {
+    "title": "Personajes",
+    "faction": "Facción",
+    "power": "Poder",
+    "status": "Estado",
+    "first_appearance": "Primera aparición",
+    "bio": "Biografía",
+    "relationships": "Relaciones",
+    "abilities": "Habilidades"
+  },
+  "world": {
+    "title": "Mundo",
+    "lore": "Lore",
+    "locations": "Ubicaciones",
+    "factions": "Facciones",
+    "timeline": "Línea temporal",
+    "concepts": "Conceptos",
+    "items": "Objetos",
+    "enemies": "Enemigos"
+  },
+  "footer": {
+    "like_chapter": "¿Te gustó este capítulo?",
+    "support_project": "Apoya el proyecto",
+    "follow_social": "Síguenos en redes",
+    "copyright": "© 2026 Trending Ghost. Todos los derechos reservados."
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "idiomas": [
+    {
+      "codigo": "es",
+      "nombre_nativo": "Español",
+      "nombre_ingles": "Spanish",
+      "emoji": "🇪🇸",
+      "icono_emoji": "🇪🇸",
+      "activo": true,
+      "es_original": true,
+      "capitulos_traducidos": 0,
+      "capitulos_totales": 0,
+      "porcentaje": 100
+    },
+    {
+      "codigo": "en",
+      "nombre_nativo": "English",
+      "nombre_ingles": "English",
+      "emoji": "🇬🇧",
+      "icono_emoji": "🇬🇧",
+      "activo": true,
+      "es_original": false,
+      "capitulos_traducidos": 0,
+      "capitulos_totales": 0,
+      "porcentaje": 0
+    },
+    {
+      "codigo": "ja",
+      "nombre_nativo": "日本語",
+      "nombre_ingles": "Japanese",
+      "emoji": "🇯🇵",
+      "icono_emoji": "🇯🇵",
+      "activo": true,
+      "es_original": false,
+      "capitulos_traducidos": 0,
+      "capitulos_totales": 0,
+      "porcentaje": 0
+    },
+    {
+      "codigo": "pt",
+      "nombre_nativo": "Português",
+      "nombre_ingles": "Portuguese",
+      "emoji": "🇧🇷",
+      "icono_emoji": "🇧🇷",
+      "activo": true,
+      "es_original": false,
+      "capitulos_traducidos": 0,
+      "capitulos_totales": 0,
+      "porcentaje": 0
+    },
+    {
+      "codigo": "fr",
+      "nombre_nativo": "Français",
+      "nombre_ingles": "French",
+      "emoji": "🇫🇷",
+      "icono_emoji": "🇫🇷",
+      "activo": true,
+      "es_original": false,
+      "capitulos_traducidos": 0,
+      "capitulos_totales": 0,
+      "porcentaje": 0
+    }
+  ]
+}

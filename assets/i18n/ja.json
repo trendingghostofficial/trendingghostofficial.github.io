@@ -1,0 +1,110 @@
+{
+  "common": {
+    "loading": "読み込み中...",
+    "error": "エラー",
+    "success": "成功",
+    "cancel": "キャンセル",
+    "confirm": "確認",
+    "close": "閉じる",
+    "save": "保存",
+    "back": "戻る",
+    "next": "次へ",
+    "previous": "前へ"
+  },
+  "nav": {
+    "home": "ホーム",
+    "chapters": "チャプター",
+    "characters": "キャラクター",
+    "world": "世界",
+    "lore": "ロア",
+    "about": "情報",
+    "support": "サポート"
+  },
+  "reader": {
+    "loading": "チャプターを読み込み中...",
+    "not_found": "チャプターが見つかりません",
+    "all_chapters": "全チャプター",
+    "chapter_list": "チャプター一覧",
+    "reading_time": "分で読める",
+    "words": "文字",
+    "previous_chapter": "前のチャプター",
+    "next_chapter": "次のチャプター",
+    "auto_scroll": {
+      "start": "開始",
+      "pause": "一時停止",
+      "speed": "速度",
+      "slow": "遅い",
+      "fast": "速い"
+    }
+  },
+  "translation": {
+    "change_language": "言語を変更",
+    "select_language": "言語を選択",
+    "original": "原文",
+    "coming_soon": "近日公開",
+    "progress": "翻訳の進捗",
+    "automatic_warning": "自動翻訳",
+    "help_improve": "改善にご協力ください！",
+    "select_text": "エラーのあるテキストを選択して修正を提案",
+    "suggest_button": "翻訳を提案",
+    "feedback": {
+      "title": "翻訳を提案",
+      "selected_text": "原文",
+      "your_suggestion": "あなたの提案",
+      "reason": "理由（任意）",
+      "reason_placeholder": "なぜこの翻訳の方が良いと思いますか？",
+      "contact": "連絡先（任意）",
+      "contact_hint": "提案が承認された場合に通知を受け取り、翻訳者ランキングでポイントを獲得するには、メールまたはDiscordを残してください。",
+      "email_placeholder": "your@email.com",
+      "discord_placeholder": "username#1234",
+      "send": "提案を送信",
+      "sending": "送信中...",
+      "success_title": "ご協力ありがとうございます！",
+      "success_message": "提案が送信され、チームによってレビューされます。追跡用のGitHub issueが作成されました。",
+      "view_issue": "GitHubでissueを表示",
+      "auto_close": "このダイアログは自動的に閉じます...",
+      "errors": {
+        "required": "この項目は必須です",
+        "min_length": "提案は10文字以上である必要があります",
+        "invalid_email": "無効なメールアドレス",
+        "rate_limit": "リクエストが多すぎます。しばらく待ってから再試行してください。",
+        "network_error": "提案の送信エラー。接続を確認して再試行してください。"
+      }
+    }
+  },
+  "chapters": {
+    "volume": "巻",
+    "chapter": "チャプター",
+    "published": "公開済み",
+    "coming_soon": "近日公開",
+    "locked": "ロック中",
+    "read": "読む",
+    "continue_reading": "続きを読む"
+  },
+  "characters": {
+    "title": "キャラクター",
+    "faction": "派閥",
+    "power": "能力",
+    "status": "状態",
+    "first_appearance": "初登場",
+    "bio": "経歴",
+    "relationships": "関係",
+    "abilities": "アビリティ"
+  },
+  "world": {
+    "title": "世界",
+    "lore": "ロア",
+    "locations": "場所",
+    "factions": "派閥",
+    "timeline": "タイムライン",
+    "concepts": "概念",
+    "items": "アイテム",
+    "enemies": "敵"
+  },
+  "footer": {
+    "like_chapter": "このチャプターは気に入りましたか？",
+    "support_project": "プロジェクトをサポート",
+    "follow_social": "ソーシャルメディアでフォロー",
+    "copyright": "© 2026 Trending Ghost. All rights reserved."
+  }
+}
