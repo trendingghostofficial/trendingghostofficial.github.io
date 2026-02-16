@@ -59,6 +59,126 @@
       "capitulos_traducidos": 0,
       "capitulos_totales": 0,
       "porcentaje": 0
+    },
+    {
+      "codigo": "de",
+      "nombre_nativo": "Deutsch",
+      "nombre_ingles": "German",
+      "emoji": "🇩🇪",
+      "icono_emoji": "🇩🇪",
+      "activo": true,
+      "es_original": false,
+      "capitulos_traducidos": 0,
+      "capitulos_totales": 0,
+      "porcentaje": 0
+    },
+    {
+      "codigo": "it",
+      "nombre_nativo": "Italiano",
+      "nombre_ingles": "Italian",
+      "emoji": "🇮🇹",
+      "icono_emoji": "🇮🇹",
+      "activo": true,
+      "es_original": false,
+      "capitulos_traducidos": 0,
+      "capitulos_totales": 0,
+      "porcentaje": 0
+    },
+    {
+      "codigo": "ko",
+      "nombre_nativo": "한국어",
+      "nombre_ingles": "Korean",
+      "emoji": "🇰🇷",
+      "icono_emoji": "🇰🇷",
+      "activo": true,
+      "es_original": false,
+      "capitulos_traducidos": 0,
+      "capitulos_totales": 0,
+      "porcentaje": 0
+    },
+    {
+      "codigo": "zh-CN",
+      "nombre_nativo": "简体中文",
+      "nombre_ingles": "Chinese (Simplified)",
+      "emoji": "🇨🇳",
+      "icono_emoji": "🇨🇳",
+      "activo": true,
+      "es_original": false,
+      "capitulos_traducidos": 0,
+      "capitulos_totales": 0,
+      "porcentaje": 0
+    },
+    {
+      "codigo": "zh-TW",
+      "nombre_nativo": "繁體中文",
+      "nombre_ingles": "Chinese (Traditional)",
+      "emoji": "🇹🇼",
+      "icono_emoji": "🇹🇼",
+      "activo": true,
+      "es_original": false,
+      "capitulos_traducidos": 0,
+      "capitulos_totales": 0,
+      "porcentaje": 0
+    },
+    {
+      "codigo": "ru",
+      "nombre_nativo": "Русский",
+      "nombre_ingles": "Russian",
+      "emoji": "🇷🇺",
+      "icono_emoji": "🇷🇺",
+      "activo": true,
+      "es_original": false,
+      "capitulos_traducidos": 0,
+      "capitulos_totales": 0,
+      "porcentaje": 0
+    },
+    {
+      "codigo": "pl",
+      "nombre_nativo": "Polski",
+      "nombre_ingles": "Polish",
+      "emoji": "🇵🇱",
+      "icono_emoji": "🇵🇱",
+      "activo": true,
+      "es_original": false,
+      "capitulos_traducidos": 0,
+      "capitulos_totales": 0,
+      "porcentaje": 0
+    },
+    {
+      "codigo": "tr",
+      "nombre_nativo": "Türkçe",
+      "nombre_ingles": "Turkish",
+      "emoji": "🇹🇷",
+      "icono_emoji": "🇹🇷",
+      "activo": true,
+      "es_original": false,
+      "capitulos_traducidos": 0,
+      "capitulos_totales": 0,
+      "porcentaje": 0
+    },
+    {
+      "codigo": "hi",
+      "nombre_nativo": "हिन्दी",
+      "nombre_ingles": "Hindi",
+      "emoji": "🇮🇳",
+      "icono_emoji": "🇮🇳",
+      "activo": true,
+      "es_original": false,
+      "capitulos_traducidos": 0,
+      "capitulos_totales": 0,
+      "porcentaje": 0
+    },
+    {
+      "codigo": "ar",
+      "nombre_nativo": "العربية",
+      "nombre_ingles": "Arabic",
+      "emoji": "🇸🇦",
+      "icono_emoji": "🇸🇦",
+      "activo": true,
+      "es_original": false,
+      "capitulos_traducidos": 0,
+      "capitulos_totales": 0,
+      "porcentaje": 0
     }
   ]
 }

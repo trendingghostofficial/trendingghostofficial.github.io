@@ -1,44 +1,44 @@
 {
   "nav": {
-    "chapters": "Capítulos",
-    "world": "Mundo",
-    "characters": "Personajes",
-    "bestiary": "Bestiario",
-    "about": "Sobre",
-    "toggle_menu": "Menú"
+    "chapters": "الفصول",
+    "world": "العالم",
+    "characters": "الشخصيات",
+    "bestiary": "دليل الوحوش",
+    "about": "حول",
+    "toggle_menu": "القائمة"
   },
   "footer": {
-    "tagline": "Manga cyberpunk de sátira ultraviolenta",
-    "copyright": "© 2026 Luis Alberto Oraá García - Todos los derechos reservados",
+    "tagline": "مانجا سايبربانك ساخرة عنيفة للغاية",
+    "copyright": "© 2026 Luis Alberto Oraá García - جميع الحقوق محفوظة",
     "legal": {
-      "title": "Legal",
-      "copyright_license": "Copyright y Licencia",
-      "authorship": "Declaración de Autoría",
+      "title": "قانوني",
+      "copyright_license": "حقوق النشر والترخيص",
+      "authorship": "إعلان التأليف",
       "safe_creative": "Safe Creative"
     },
     "transparency": {
-      "title": "Transparencia",
-      "view_source": "Ver código fuente",
-      "commit_history": "Historial de commits",
-      "git_proof": "Git: Prueba de autoría verificable"
+      "title": "الشفافية",
+      "view_source": "عرض الكود المصدري",
+      "commit_history": "سجل الالتزامات",
+      "git_proof": "Git: دليل تأليف قابل للتحقق"
     },
     "community": {
-      "title": "Comunidad",
-      "rss_feed": "RSS Feed",
-      "kofi": "Ko-fi (Apóyame)",
-      "contact": "Contacto"
+      "title": "المجتمع",
+      "rss_feed": "خلاصة RSS",
+      "kofi": "Ko-fi (ادعمني)",
+      "contact": "اتصل"
     },
-    "quote": "Ser es ser percibido. El Algoritmo decide quién existe.",
-    "legal_notice": "Contenido protegido por derechos de autor. Lectura libre, copia prohibida.",
-    "legal_notice_extended": "Registrado bajo el Convenio de Berna y leyes de propiedad intelectual."
+    "quote": "الوجود هو أن يتم إدراكك. الخوارزمية تقرر من يوجد.",
+    "legal_notice": "محتوى محمي بحقوق النشر. القراءة مجانية، النسخ محظور.",
+    "legal_notice_extended": "مسجل بموجب اتفاقية برن وقوانين الملكية الفكرية."
   },
   "common": {
     "site_name": "TRENDING GHOST",
     "site_name_japanese": "バズれゴースト",
-    "back_to_top": "Volver arriba",
-    "loading": "Cargando...",
-    "error": "Error",
-    "scroll_to_top": "Volver arriba"
+    "back_to_top": "العودة للأعلى",
+    "loading": "جاري التحميل...",
+    "error": "خطأ",
+    "scroll_to_top": "التمرير للأعلى"
   },
   "home": {
     "hero": {

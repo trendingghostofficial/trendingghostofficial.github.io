@@ -1,44 +1,44 @@
 {
   "nav": {
-    "chapters": "Capítulos",
-    "world": "Mundo",
-    "characters": "Personajes",
+    "chapters": "Capitoli",
+    "world": "Mondo",
+    "characters": "Personaggi",
     "bestiary": "Bestiario",
-    "about": "Sobre",
-    "toggle_menu": "Menú"
+    "about": "Info",
+    "toggle_menu": "Menu"
   },
   "footer": {
-    "tagline": "Manga cyberpunk de sátira ultraviolenta",
-    "copyright": "© 2026 Luis Alberto Oraá García - Todos los derechos reservados",
+    "tagline": "Manga cyberpunk di satira ultraviolenta",
+    "copyright": "© 2026 Luis Alberto Oraá García - Tutti i diritti riservati",
     "legal": {
-      "title": "Legal",
-      "copyright_license": "Copyright y Licencia",
-      "authorship": "Declaración de Autoría",
+      "title": "Legale",
+      "copyright_license": "Copyright e Licenza",
+      "authorship": "Dichiarazione di Paternità",
       "safe_creative": "Safe Creative"
     },
     "transparency": {
-      "title": "Transparencia",
-      "view_source": "Ver código fuente",
-      "commit_history": "Historial de commits",
-      "git_proof": "Git: Prueba de autoría verificable"
+      "title": "Trasparenza",
+      "view_source": "Vedi codice sorgente",
+      "commit_history": "Cronologia commit",
+      "git_proof": "Git: Prova di paternità verificabile"
     },
     "community": {
-      "title": "Comunidad",
-      "rss_feed": "RSS Feed",
-      "kofi": "Ko-fi (Apóyame)",
-      "contact": "Contacto"
+      "title": "Comunità",
+      "rss_feed": "Feed RSS",
+      "kofi": "Ko-fi (Supportami)",
+      "contact": "Contatto"
     },
-    "quote": "Ser es ser percibido. El Algoritmo decide quién existe.",
-    "legal_notice": "Contenido protegido por derechos de autor. Lectura libre, copia prohibida.",
-    "legal_notice_extended": "Registrado bajo el Convenio de Berna y leyes de propiedad intelectual."
+    "quote": "Essere è essere percepiti. L'Algoritmo decide chi esiste.",
+    "legal_notice": "Contenuto protetto da copyright. Lettura libera, copia vietata.",
+    "legal_notice_extended": "Registrato secondo la Convenzione di Berna e leggi sulla proprietà intellettuale."
   },
   "common": {
     "site_name": "TRENDING GHOST",
     "site_name_japanese": "バズれゴースト",
-    "back_to_top": "Volver arriba",
-    "loading": "Cargando...",
-    "error": "Error",
-    "scroll_to_top": "Volver arriba"
+    "back_to_top": "Torna su",
+    "loading": "Caricamento...",
+    "error": "Errore",
+    "scroll_to_top": "Torna in cima"
   },
   "home": {
     "hero": {

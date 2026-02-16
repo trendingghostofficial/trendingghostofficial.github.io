@@ -1,44 +1,44 @@
 {
   "nav": {
-    "chapters": "Capítulos",
-    "world": "Mundo",
-    "characters": "Personajes",
-    "bestiary": "Bestiario",
-    "about": "Sobre",
-    "toggle_menu": "Menú"
+    "chapters": "챕터",
+    "world": "세계관",
+    "characters": "캐릭터",
+    "bestiary": "몬스터 도감",
+    "about": "정보",
+    "toggle_menu": "메뉴"
   },
   "footer": {
-    "tagline": "Manga cyberpunk de sátira ultraviolenta",
-    "copyright": "© 2026 Luis Alberto Oraá García - Todos los derechos reservados",
+    "tagline": "초폭력 풍자 사이버펑크 만화",
+    "copyright": "© 2026 Luis Alberto Oraá García - 모든 권리 보유",
     "legal": {
-      "title": "Legal",
-      "copyright_license": "Copyright y Licencia",
-      "authorship": "Declaración de Autoría",
+      "title": "법적 정보",
+      "copyright_license": "저작권 및 라이선스",
+      "authorship": "저작권 선언",
       "safe_creative": "Safe Creative"
     },
     "transparency": {
-      "title": "Transparencia",
-      "view_source": "Ver código fuente",
-      "commit_history": "Historial de commits",
-      "git_proof": "Git: Prueba de autoría verificable"
+      "title": "투명성",
+      "view_source": "소스 코드 보기",
+      "commit_history": "커밋 이력",
+      "git_proof": "Git: 검증 가능한 저작권 증명"
     },
     "community": {
-      "title": "Comunidad",
-      "rss_feed": "RSS Feed",
-      "kofi": "Ko-fi (Apóyame)",
-      "contact": "Contacto"
+      "title": "커뮤니티",
+      "rss_feed": "RSS 피드",
+      "kofi": "Ko-fi (후원하기)",
+      "contact": "연락처"
     },
-    "quote": "Ser es ser percibido. El Algoritmo decide quién existe.",
-    "legal_notice": "Contenido protegido por derechos de autor. Lectura libre, copia prohibida.",
-    "legal_notice_extended": "Registrado bajo el Convenio de Berna y leyes de propiedad intelectual."
+    "quote": "존재한다는 것은 인식되는 것. 알고리즘이 누가 존재하는지 결정한다.",
+    "legal_notice": "저작권으로 보호되는 콘텐츠. 읽기는 자유, 복사는 금지.",
+    "legal_notice_extended": "베른 협약 및 지적 재산권법에 따라 등록됨."
   },
   "common": {
     "site_name": "TRENDING GHOST",
     "site_name_japanese": "バズれゴースト",
-    "back_to_top": "Volver arriba",
-    "loading": "Cargando...",
-    "error": "Error",
-    "scroll_to_top": "Volver arriba"
+    "back_to_top": "맨 위로",
+    "loading": "로딩 중...",
+    "error": "오류",
+    "scroll_to_top": "맨 위로 스크롤"
   },
   "home": {
     "hero": {

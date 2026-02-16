@@ -1,44 +1,44 @@
 {
   "nav": {
-    "chapters": "Capítulos",
-    "world": "Mundo",
-    "characters": "Personajes",
-    "bestiary": "Bestiario",
-    "about": "Sobre",
-    "toggle_menu": "Menú"
+    "chapters": "Bölümler",
+    "world": "Dünya",
+    "characters": "Karakterler",
+    "bestiary": "Bestiary",
+    "about": "Hakkında",
+    "toggle_menu": "Menü"
   },
   "footer": {
-    "tagline": "Manga cyberpunk de sátira ultraviolenta",
-    "copyright": "© 2026 Luis Alberto Oraá García - Todos los derechos reservados",
+    "tagline": "Aşırı şiddetli hiciv cyberpunk manga",
+    "copyright": "© 2026 Luis Alberto Oraá García - Tüm hakları saklıdır",
     "legal": {
-      "title": "Legal",
-      "copyright_license": "Copyright y Licencia",
-      "authorship": "Declaración de Autoría",
+      "title": "Yasal",
+      "copyright_license": "Telif Hakkı ve Lisans",
+      "authorship": "Yazarlık Beyanı",
       "safe_creative": "Safe Creative"
     },
     "transparency": {
-      "title": "Transparencia",
-      "view_source": "Ver código fuente",
-      "commit_history": "Historial de commits",
-      "git_proof": "Git: Prueba de autoría verificable"
+      "title": "Şeffaflık",
+      "view_source": "Kaynak kodunu görüntüle",
+      "commit_history": "Commit geçmişi",
+      "git_proof": "Git: Doğrulanabilir yazarlık kanıtı"
     },
     "community": {
-      "title": "Comunidad",
-      "rss_feed": "RSS Feed",
-      "kofi": "Ko-fi (Apóyame)",
-      "contact": "Contacto"
+      "title": "Topluluk",
+      "rss_feed": "RSS Beslemesi",
+      "kofi": "Ko-fi (Destek Ol)",
+      "contact": "İletişim"
     },
-    "quote": "Ser es ser percibido. El Algoritmo decide quién existe.",
-    "legal_notice": "Contenido protegido por derechos de autor. Lectura libre, copia prohibida.",
-    "legal_notice_extended": "Registrado bajo el Convenio de Berna y leyes de propiedad intelectual."
+    "quote": "Var olmak algılanmaktır. Algoritma kimin var olduğuna karar verir.",
+    "legal_notice": "Telif hakkıyla korunan içerik. Okuma ücretsiz, kopyalama yasak.",
+    "legal_notice_extended": "Bern Sözleşmesi ve fikri mülkiyet yasalarına göre kayıtlıdır."
   },
   "common": {
     "site_name": "TRENDING GHOST",
     "site_name_japanese": "バズれゴースト",
-    "back_to_top": "Volver arriba",
-    "loading": "Cargando...",
-    "error": "Error",
-    "scroll_to_top": "Volver arriba"
+    "back_to_top": "Yukarı",
+    "loading": "Yükleniyor...",
+    "error": "Hata",
+    "scroll_to_top": "Yukarı kaydır"
   },
   "home": {
     "hero": {

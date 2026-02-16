@@ -1,44 +1,44 @@
 {
   "nav": {
-    "chapters": "Capítulos",
-    "world": "Mundo",
-    "characters": "Personajes",
-    "bestiary": "Bestiario",
-    "about": "Sobre",
-    "toggle_menu": "Menú"
+    "chapters": "章节",
+    "world": "世界观",
+    "characters": "角色",
+    "bestiary": "怪物图鉴",
+    "about": "关于",
+    "toggle_menu": "菜单"
   },
   "footer": {
-    "tagline": "Manga cyberpunk de sátira ultraviolenta",
-    "copyright": "© 2026 Luis Alberto Oraá García - Todos los derechos reservados",
+    "tagline": "超暴力讽刺赛博朋克漫画",
+    "copyright": "© 2026 Luis Alberto Oraá García - 版权所有",
     "legal": {
-      "title": "Legal",
-      "copyright_license": "Copyright y Licencia",
-      "authorship": "Declaración de Autoría",
+      "title": "法律",
+      "copyright_license": "版权和许可",
+      "authorship": "作者声明",
       "safe_creative": "Safe Creative"
     },
     "transparency": {
-      "title": "Transparencia",
-      "view_source": "Ver código fuente",
-      "commit_history": "Historial de commits",
-      "git_proof": "Git: Prueba de autoría verificable"
+      "title": "透明度",
+      "view_source": "查看源代码",
+      "commit_history": "提交历史",
+      "git_proof": "Git：可验证的作者证明"
     },
     "community": {
-      "title": "Comunidad",
-      "rss_feed": "RSS Feed",
-      "kofi": "Ko-fi (Apóyame)",
-      "contact": "Contacto"
+      "title": "社区",
+      "rss_feed": "RSS订阅",
+      "kofi": "Ko-fi（支持我）",
+      "contact": "联系"
     },
-    "quote": "Ser es ser percibido. El Algoritmo decide quién existe.",
-    "legal_notice": "Contenido protegido por derechos de autor. Lectura libre, copia prohibida.",
-    "legal_notice_extended": "Registrado bajo el Convenio de Berna y leyes de propiedad intelectual."
+    "quote": "存在即被感知。算法决定谁存在。",
+    "legal_notice": "受版权保护的内容。免费阅读，禁止复制。",
+    "legal_notice_extended": "根据伯尔尼公约和知识产权法注册。"
   },
   "common": {
     "site_name": "TRENDING GHOST",
     "site_name_japanese": "バズれゴースト",
-    "back_to_top": "Volver arriba",
-    "loading": "Cargando...",
-    "error": "Error",
-    "scroll_to_top": "Volver arriba"
+    "back_to_top": "返回顶部",
+    "loading": "加载中...",
+    "error": "错误",
+    "scroll_to_top": "滚动到顶部"
   },
   "home": {
     "hero": {

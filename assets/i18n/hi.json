@@ -1,44 +1,44 @@
 {
   "nav": {
-    "chapters": "Capítulos",
-    "world": "Mundo",
-    "characters": "Personajes",
-    "bestiary": "Bestiario",
-    "about": "Sobre",
-    "toggle_menu": "Menú"
+    "chapters": "अध्याय",
+    "world": "दुनिया",
+    "characters": "पात्र",
+    "bestiary": "राक्षस विवरण",
+    "about": "के बारे में",
+    "toggle_menu": "मेनू"
   },
   "footer": {
-    "tagline": "Manga cyberpunk de sátira ultraviolenta",
-    "copyright": "© 2026 Luis Alberto Oraá García - Todos los derechos reservados",
+    "tagline": "अति-हिंसक व्यंग्य साइबरपंक मंगा",
+    "copyright": "© 2026 Luis Alberto Oraá García - सर्वाधिकार सुरक्षित",
     "legal": {
-      "title": "Legal",
-      "copyright_license": "Copyright y Licencia",
-      "authorship": "Declaración de Autoría",
+      "title": "कानूनी",
+      "copyright_license": "कॉपीराइट और लाइसेंस",
+      "authorship": "लेखकत्व घोषणा",
       "safe_creative": "Safe Creative"
     },
     "transparency": {
-      "title": "Transparencia",
-      "view_source": "Ver código fuente",
-      "commit_history": "Historial de commits",
-      "git_proof": "Git: Prueba de autoría verificable"
+      "title": "पारदर्शिता",
+      "view_source": "स्रोत कोड देखें",
+      "commit_history": "कमिट इतिहास",
+      "git_proof": "Git: सत्यापन योग्य लेखकत्व प्रमाण"
     },
     "community": {
-      "title": "Comunidad",
-      "rss_feed": "RSS Feed",
-      "kofi": "Ko-fi (Apóyame)",
-      "contact": "Contacto"
+      "title": "समुदाय",
+      "rss_feed": "RSS फ़ीड",
+      "kofi": "Ko-fi (समर्थन करें)",
+      "contact": "संपर्क"
     },
-    "quote": "Ser es ser percibido. El Algoritmo decide quién existe.",
-    "legal_notice": "Contenido protegido por derechos de autor. Lectura libre, copia prohibida.",
-    "legal_notice_extended": "Registrado bajo el Convenio de Berna y leyes de propiedad intelectual."
+    "quote": "होना माना जाना है। एल्गोरिदम तय करता है कि कौन मौजूद है।",
+    "legal_notice": "कॉपीराइट द्वारा संरक्षित सामग्री। पढ़ना मुफ़्त, कॉपी करना प्रतिबंधित।",
+    "legal_notice_extended": "बर्न कन्वेंशन और बौद्धिक संपदा कानूनों के तहत पंजीकृत।"
   },
   "common": {
     "site_name": "TRENDING GHOST",
     "site_name_japanese": "バズれゴースト",
-    "back_to_top": "Volver arriba",
-    "loading": "Cargando...",
-    "error": "Error",
-    "scroll_to_top": "Volver arriba"
+    "back_to_top": "शीर्ष पर वापस",
+    "loading": "लोड हो रहा है...",
+    "error": "त्रुटि",
+    "scroll_to_top": "शीर्ष पर स्क्रॉल करें"
   },
   "home": {
     "hero": {

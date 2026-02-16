@@ -1,44 +1,44 @@
 {
   "nav": {
-    "chapters": "Capítulos",
-    "world": "Mundo",
-    "characters": "Personajes",
-    "bestiary": "Bestiario",
-    "about": "Sobre",
-    "toggle_menu": "Menú"
+    "chapters": "Rozdziały",
+    "world": "Świat",
+    "characters": "Postacie",
+    "bestiary": "Bestiariusz",
+    "about": "O projekcie",
+    "toggle_menu": "Menu"
   },
   "footer": {
-    "tagline": "Manga cyberpunk de sátira ultraviolenta",
-    "copyright": "© 2026 Luis Alberto Oraá García - Todos los derechos reservados",
+    "tagline": "Ultraprzemocowa satyryczna manga cyberpunk",
+    "copyright": "© 2026 Luis Alberto Oraá García - Wszelkie prawa zastrzeżone",
     "legal": {
-      "title": "Legal",
-      "copyright_license": "Copyright y Licencia",
-      "authorship": "Declaración de Autoría",
+      "title": "Informacje prawne",
+      "copyright_license": "Prawa autorskie i licencja",
+      "authorship": "Oświadczenie o autorstwie",
       "safe_creative": "Safe Creative"
     },
     "transparency": {
-      "title": "Transparencia",
-      "view_source": "Ver código fuente",
-      "commit_history": "Historial de commits",
-      "git_proof": "Git: Prueba de autoría verificable"
+      "title": "Przejrzystość",
+      "view_source": "Zobacz kod źródłowy",
+      "commit_history": "Historia commitów",
+      "git_proof": "Git: Weryfikowalny dowód autorstwa"
     },
     "community": {
-      "title": "Comunidad",
-      "rss_feed": "RSS Feed",
-      "kofi": "Ko-fi (Apóyame)",
-      "contact": "Contacto"
+      "title": "Społeczność",
+      "rss_feed": "Kanał RSS",
+      "kofi": "Ko-fi (Wesprzyj)",
+      "contact": "Kontakt"
     },
-    "quote": "Ser es ser percibido. El Algoritmo decide quién existe.",
-    "legal_notice": "Contenido protegido por derechos de autor. Lectura libre, copia prohibida.",
-    "legal_notice_extended": "Registrado bajo el Convenio de Berna y leyes de propiedad intelectual."
+    "quote": "Być to być postrzeganym. Algorytm decyduje, kto istnieje.",
+    "legal_notice": "Treść chroniona prawami autorskimi. Czytanie wolne, kopiowanie zabronione.",
+    "legal_notice_extended": "Zarejestrowane zgodnie z Konwencją Berneńską i prawem własności intelektualnej."
   },
   "common": {
     "site_name": "TRENDING GHOST",
     "site_name_japanese": "バズれゴースト",
-    "back_to_top": "Volver arriba",
-    "loading": "Cargando...",
-    "error": "Error",
-    "scroll_to_top": "Volver arriba"
+    "back_to_top": "Do góry",
+    "loading": "Ładowanie...",
+    "error": "Błąd",
+    "scroll_to_top": "Przewiń do góry"
   },
   "home": {
     "hero": {
