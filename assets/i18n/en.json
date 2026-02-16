@@ -800,5 +800,56 @@
     "legal_notice_text": "All content from TRENDING GHOST is protected by copyright. For licensing requests, translations, or adaptations, contact through the legal email.",
     "legal_link_license": "📜 View full license",
     "legal_link_authorship": "✍️ Authorship declaration"
+  },
+  "analytics": {
+    "header": {
+      "title": "📊 GLOBAL STATISTICS",
+      "subtitle": "Where TRENDING GHOST is read in real time"
+    },
+    "periods": {
+      "last24h": "📅 Last 24h",
+      "last7days": "📊 7 days",
+      "last30days": "📆 30 days",
+      "allTime": "🌍 All Time"
+    },
+    "stats": {
+      "totalViews": "Total Views",
+      "uniqueVisitors": "Unique Visitors",
+      "chaptersRead": "Chapters Read",
+      "desktop": "Desktop"
+    },
+    "sections": {
+      "topChapters": "📖 Top Chapters",
+      "countries": "🌍 Countries",
+      "languages": "🗣️ Languages",
+      "devices": "💻 Devices",
+      "dailyTrend": "📈 Daily Trend"
+    },
+    "empty": {
+      "noDataChapters": "No chapter data yet",
+      "noDataCountries": "No country data yet",
+      "noDataLanguages": "No language data yet"
+    },
+    "footer": {
+      "lastUpdated": "Last updated",
+      "transparencyNote": "⚡ No cookies. No invasive tracking. Only aggregated and anonymous statistics."
+    },
+    "units": {
+      "views": "views",
+      "visitors": "visitors",
+      "percentage": "%"
+    },
+    "devices": {
+      "desktop": "Desktop",
+      "mobile": "Mobile",
+      "tablet": "Tablet"
+    },
+    "labels": {
+      "country": "Country",
+      "language": "Language",
+      "code": "Code",
+      "sessions": "sessions",
+      "average": "average"
+    }
   }
 }

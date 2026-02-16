@@ -800,5 +800,56 @@
     "legal_notice_text": "TRENDING GHOSTのすべてのコンテンツは著作権で保護されています。ライセンス、翻訳、または改作のリクエストについては、法的メールを通じてお問い合わせください。",
     "legal_link_license": "📜 完全なライセンスを見る",
     "legal_link_authorship": "✍️ 著者宣言"
+  },
+  "analytics": {
+    "header": {
+      "title": "📊 グローバル統計",
+      "subtitle": "TRENDING GHOSTがリアルタイムで読まれている場所"
+    },
+    "periods": {
+      "last24h": "📅 過去24時間",
+      "last7days": "📊 7日間",
+      "last30days": "📆 30日間",
+      "allTime": "🌍 全期間"
+    },
+    "stats": {
+      "totalViews": "総閲覧数",
+      "uniqueVisitors": "ユニーク訪問者",
+      "chaptersRead": "読まれたチャプター",
+      "desktop": "デスクトップ"
+    },
+    "sections": {
+      "topChapters": "📖 トップチャプター",
+      "countries": "🌍 国",
+      "languages": "🗣️ 言語",
+      "devices": "💻 デバイス",
+      "dailyTrend": "📈 日別トレンド"
+    },
+    "empty": {
+      "noDataChapters": "チャプターデータがまだありません",
+      "noDataCountries": "国データがまだありません",
+      "noDataLanguages": "言語データがまだありません"
+    },
+    "footer": {
+      "lastUpdated": "最終更新",
+      "transparencyNote": "⚡ クッキーなし。侵襲的なトラッキングなし。集計された匿名統計のみ。"
+    },
+    "units": {
+      "views": "ビュー",
+      "visitors": "訪問者",
+      "percentage": "%"
+    },
+    "devices": {
+      "desktop": "デスクトップ",
+      "mobile": "モバイル",
+      "tablet": "タブレット"
+    },
+    "labels": {
+      "country": "国",
+      "language": "言語",
+      "code": "コード",
+      "sessions": "セッション",
+      "average": "平均"
+    }
   }
 }

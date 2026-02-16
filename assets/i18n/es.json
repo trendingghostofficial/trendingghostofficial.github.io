@@ -800,5 +800,56 @@
     "legal_notice_text": "Todo el contenido de TRENDING GHOST está protegido por derechos de autor. Para solicitudes de licencias, traducciones o adaptaciones, contacta a través del email legal.",
     "legal_link_license": "📜 Ver licencia completa",
     "legal_link_authorship": "✍️ Declaración de autoría"
+  },
+  "analytics": {
+    "header": {
+      "title": "📊 ESTADÍSTICAS GLOBALES",
+      "subtitle": "Dónde se lee TRENDING GHOST en tiempo real"
+    },
+    "periods": {
+      "last24h": "📅 Últimas 24h",
+      "last7days": "📊 7 días",
+      "last30days": "📆 30 días",
+      "allTime": "🌍 Todo el tiempo"
+    },
+    "stats": {
+      "totalViews": "Visualizaciones Totales",
+      "uniqueVisitors": "Visitantes Únicos",
+      "chaptersRead": "Capítulos Leídos",
+      "desktop": "Desktop"
+    },
+    "sections": {
+      "topChapters": "📖 Top Capítulos",
+      "countries": "🌍 Países",
+      "languages": "🗣️ Idiomas",
+      "devices": "💻 Dispositivos",
+      "dailyTrend": "📈 Tendencia Diaria"
+    },
+    "empty": {
+      "noDataChapters": "No hay datos de capítulos aún",
+      "noDataCountries": "No hay datos de países aún",
+      "noDataLanguages": "No hay datos de idiomas aún"
+    },
+    "footer": {
+      "lastUpdated": "Última actualización",
+      "transparencyNote": "⚡ Sin cookies. Sin tracking invasivo. Solo estadísticas agregadas y anónimas."
+    },
+    "units": {
+      "views": "visualizaciones",
+      "visitors": "visitantes",
+      "percentage": "%"
+    },
+    "devices": {
+      "desktop": "Desktop",
+      "mobile": "Móvil",
+      "tablet": "Tablet"
+    },
+    "labels": {
+      "country": "País",
+      "language": "Idioma",
+      "code": "Código",
+      "sessions": "sesiones",
+      "average": "promedio"
+    }
   }
 }
