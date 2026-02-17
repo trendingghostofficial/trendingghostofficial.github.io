@@ -2,36 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>TRENDING GHOST - Bazure Gōsuto</title>
-    <link>https://tu-usuario.github.io/TRENDING-GHOST/</link>
+    <link>https://trendingghostofficial.github.io</link>
     <description>Manga cyberpunk de sátira ultraviolenta. Ser es ser percibido.</description>
     <language>es</language>
     <copyright>Copyright 2026 Luis Alberto Oraá García. All rights reserved.</copyright>
     <lastBuildDate>Sun, 09 Feb 2026 12:00:00 GMT</lastBuildDate>
-    <atom:link href="https://tu-usuario.github.io/TRENDING-GHOST/feed.xml" rel="self" type="application/rss+xml"/>
+    <atom:link href="https://trendingghostofficial.github.io/feed.xml" rel="self" type="application/rss+xml"/>
     <image>
-      <url>https://tu-usuario.github.io/TRENDING-GHOST/favicon.ico</url>
+      <url>https://trendingghostofficial.github.io/favicon.ico</url>
       <title>TRENDING GHOST</title>
-      <link>https://tu-usuario.github.io/TRENDING-GHOST/</link>
+      <link>https://trendingghostofficial.github.io/</link>
     </image>
 
-    <!-- Capítulo 1 -->
+    <!-- Capítulo 1
     <item>
-      <title>Capítulo 1: El Invisible</title>
-      <link>https://tu-usuario.github.io/TRENDING-GHOST/capitulos/1/1</link>
-      <guid>https://tu-usuario.github.io/TRENDING-GHOST/capitulos/1/1</guid>
+      <title>Trending Ghost</title>
+      <link>https://trendingghostofficial.github.io</link>
+      <guid>https://trendingghostofficial.github.io</guid>
       <pubDate>Sat, 14 Jun 2026 00:00:00 GMT</pubDate>
       <description><![CDATA[
-        <h2>Volumen 1 - Capítulo 1: El Invisible</h2>
-        <p>Bazure descubre que es completamente invisible para el Algoritmo. Un garabato en un mundo 8K.</p>
-        <p><strong>Palabras:</strong> 800 | <strong>Lectura:</strong> 4 min</p>
-        <p><strong>Tags:</strong> origen, bazure, shibuya, invisibilidad</p>
-        <p><a href="https://tu-usuario.github.io/TRENDING-GHOST/capitulos/1/1">Leer capítulo →</a></p>
+        <h1>TG is coming...</h1>
       ]]></description>
       <category>Origen</category>
       <category>Bazure</category>
     </item>
 
-    <!-- Añadir más capítulos aquí cuando se publiquen -->
+     Añadir más capítulos aquí cuando se publiquen -->
 
   </channel>
 </rss>
