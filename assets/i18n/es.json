@@ -214,6 +214,7 @@
     "trending": "Trending",
     "see_more": "Ver más información",
     "no_locations": "No hay ubicaciones de este tipo",
+    "no_locations_unlocked": "No hay ubicaciones desbloqueadas aún",
     "try_filter": "Intenta con otro filtro",
     "wb_system": "💡 Sistema",
     "wb_society": "👥 Sociedad",
@@ -899,7 +900,8 @@
     "empty": {
       "noDataChapters": "No hay datos de capítulos aún",
       "noDataCountries": "No hay datos de países aún",
-      "noDataLanguages": "No hay datos de idiomas aún"
+      "noDataLanguages": "No hay datos de idiomas aún",
+      "insufficientData": "El sistema de analytics aún no ha recopilado datos suficientes"
     },
     "footer": {
       "lastUpdated": "Última actualización",
@@ -922,5 +924,11 @@
       "sessions": "sesiones",
       "average": "promedio"
     }
+  },
+  "commits": {
+    "error_loading": "Error al cargar commits"
+  },
+  "translation_feedback": {
+    "submit_button": "Enviar sugerencia"
   }
 }
